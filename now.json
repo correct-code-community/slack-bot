@@ -1,0 +1,7 @@
+{
+  "name": "correct-code-slack-bot",
+  "version": 2,
+  "env": {
+    "SLACK_BOT_AUTH_TOKEN": "@slack-bot-auth-token"
+  }
+}
